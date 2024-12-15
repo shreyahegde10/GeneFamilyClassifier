@@ -1,3 +1,4 @@
+### an example for extracting data using biomart ###########
 from biomart import BiomartServer
 
 
